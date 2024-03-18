@@ -3,7 +3,7 @@
 
 學習要點：
 1. 熟悉各html不同tag所代表意思及用法
-2. 使用&lt;a&gt;切換多個頁面
+2. 使用&lt;a&gt;切換多個頁面 (P.S. 在markdown中要顯示html tag <>要使用跳脫字元)
 3. 透過style.css將各元素更改為自己想要的樣式
 4. 學習flex排版
 5. javascript部分使用cdn的方式增加網頁豐富度(有google pie chart及滑鼠hover圖案特效兩個)
